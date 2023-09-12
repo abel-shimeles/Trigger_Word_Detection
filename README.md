@@ -32,5 +32,5 @@ cd Trigger_Word_Detection
 
 Your Folder structure should look like this:
 <div align="center">
-  <img src="file_structure.png">
+  <img src="images/file_structure.png">
 </div>
