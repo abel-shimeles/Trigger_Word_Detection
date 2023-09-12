@@ -31,4 +31,6 @@ cd Trigger_Word_Detection
 2. Download the [Trigger_word_files.zip](https://drive.google.com/file/d/1ajg2jIjXVUktu22E62aaaf9hzXJnKw6M/view) file from Google Drive then extract it and add copy all the files in the extracted folder and paste them in the root folder.
 
 Your Folder structure should look like this:
-<img src="images/file_structure.png" style="width:900px;height:700px;">
+<div align="center">
+  <img src="file_structure.png">
+</div>
