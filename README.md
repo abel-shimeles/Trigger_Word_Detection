@@ -11,7 +11,7 @@ Trigger word detection is the technology that allows devices like Amazon Alexa, 
 
 Here is the architecture of the model:
 
-<img src="images/model.png" style="width:700px;height:700px;">
+<img src="images/model.png" style="width:900px;height:700px;">
 
 
 ### Try It in your own Example
@@ -31,4 +31,4 @@ cd Trigger_Word_Detection
 2. Download the [Trigger_word_files.zip](https://drive.google.com/file/d/1ajg2jIjXVUktu22E62aaaf9hzXJnKw6M/view) file from Google Drive then extract it and add copy all the files in the extracted folder and paste them in the root folder.
 
 Your Folder structure should look like this:
-<img src="images/file_structure.png" style="width:500px;height:500px;">
+<img src="images/file_structure.png" style="width:900px;height:700px;">
